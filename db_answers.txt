@@ -1,0 +1,74 @@
+QA DATABASE QUERY RESULTS
+Files: ['EG4-DBDump_Spring2026_c2-1.xlsx', 'EG4-DBDump_spring2026_c1.xlsx']
+QUERY: DATABASE LOGIC CALL: iansearch()
+Total results: 7
+
+Record 1 
+  Test Case: Bug: Tutorial coins
+  Expected Result: Show that you receive the coins/ indicator of the amount of coins you have
+  Actual Result: Nothing to show anywhere in the menu other that the tutorial says you have completed it
+  Number of Builds: 22
+  Build Numbers: 10/14/2024, 10/15/2024, 10/3/2024, 10/5/2024, 10/6/2024, 10/8/2024, 2/21/2024, 2/22/2024, 2/23/2024, 2/25/2024, 2/25/2025, 2/26/2024, 2/27/2024, 2/28/2024, 3/10/2024, 3/12/2024, 3/17/2024, 3/18/2024, 3/19/2024, 3/5/2024, 3/6/2024, Use date you 
+tested on
+10/12/2024
+  Total Matching Bugs in Group: 117
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 2 
+  Test Case: While playing, it would be much smoother if I could drag and drop cards into attack or defend positions.
+  Expected Result: it only works by clicking on the card
+  Actual Result: I was hoping to be able to move the card when I click and move the mouse
+  Number of Builds: 20
+  Build Numbers: 10//14/24, 10/12/2024, 10/15/2024, 10/3/2024, 10/6/2024, 10/7/2024, 2/10/2024, 2/22/2024, 2/25/2024, 2/27/2024, 3/11/2024, 3/12/2024, 3/13/2024, 3/17/2024, 3/18/2024, 3/19/2024, 3/6/2024, 3/8/2024, Use date you 
+tested on
+10/12/2024, Use date you 
+tested on
+10/7/2024
+  Total Matching Bugs in Group: 50
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 3 
+  Test Case: bug: metamask button does not work
+  Expected Result: take me to some portal
+  Actual Result: does not take me anymore
+  Number of Builds: 3
+  Build Numbers: 10/15/2024, 3/13/2024, 3/19/2024
+  Total Matching Bugs in Group: 5
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 4 
+  Test Case: Skipped turn without giving opportunity for game actions
+  Expected Result: After enemy's turn ends to take control of game
+  Actual Result: Timer ticked down without givien opportunityi to play cards
+  Number of Builds: 2
+  Build Numbers: 3/12/2024, 3/19/2024
+  Total Matching Bugs in Group: 5
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 5 
+  Test Case: takes too long to load in to main page
+  Expected Result: open endersgate.app and load in
+  Actual Result: open enders game app and load in, but took almost 1 minute
+  Number of Builds: 4
+  Build Numbers: 2/25/2024, 2/27/2024, 3/17/2024, 3/9/2024
+  Total Matching Bugs in Group: 10
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 6 
+  Test Case: Bug: Previous deck was unselected
+  Expected Result: Enter arena or adventure with previously selected deck
+  Actual Result: Previously set deck was unselected
+  Number of Builds: 2
+  Build Numbers: 2/25/2024, 3/11/2024
+  Total Matching Bugs in Group: 6
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
+Record 7 
+  Test Case: For the first time, I won!!
+  Expected Result: Win the battle
+  Actual Result: Won the battle!
+  Number of Builds: 2
+  Build Numbers: 10/12/2024, 3/9/2024
+  Total Matching Bugs in Group: 4
+  Collections: EG4-DBDump_spring2026_c1, EG4-DBDump_Spring2026_c2-1
+
